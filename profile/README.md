@@ -18,7 +18,7 @@
     <a href="https://in.linkedin.com/company/tanglecoder/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&color=black" alt="Tangle Coder LinkedIn" />
     </a>
-    <a href="https://in.linkedin.com/company/tanglecoder/" target="_blank">
+    <a href="https://www.facebook.com/tanglecoder/" target="_blank">
         <img src="https://img.shields.io/badge/-Facebook-0077B5?logo=facebook&style=for-the-badge&logoColor=white&color=black" alt="Tangle Coder Facebook" />
     </a>
     <a href="https://www.instagram.com/tanglecoder/" target="_blank">
