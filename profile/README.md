@@ -4,7 +4,7 @@
 - 👨‍💻 TC is Software Development & Digital Marketing Company 
 - 🌱 We are growing Startup seek for work 
 - 🛠 We are passionate about Browser Extensions, Automation tools, and low level CMS as open source projects
-- 🙌 Contact us on our <a href="https://www.tanglecoder.com"> <img src="https://www.tanglecoder.com/images/logo.png" height="14" alt="Tangle Coder | Software Agency" /> Website </a> or social media for any inquiry
+- 🙌 Contact us on our <a href="https://www.tanglecoder.in"> <img src="https://www.tanglecoder.in/images/logo.png" height="14" alt="Tangle Coder | Software Agency" /> Website </a> or social media for any inquiry
 
 ## Reach Us:
 
